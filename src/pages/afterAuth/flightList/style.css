@@ -1,0 +1,19 @@
+.flight--contaner{
+    padding: 2rem;
+
+}
+.from--to{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+.from--to>div{
+    width: 200px;
+}
+.station{
+    display: flex;
+    gap: 1rem;
+}
+.station>div>b:first-child{
+    color: rgb(184, 172, 172);
+}
